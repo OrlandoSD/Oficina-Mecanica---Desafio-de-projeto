@@ -1,0 +1,13 @@
+Modelagem Inicial: Entidades e Relacionamentos
+Entidades Principais:
+Cliente: Pessoa que leva veículos para manutenção.
+
+Veículo: Automóvel associado ao cliente.
+
+Ordem de Serviço: Registro dos serviços e peças.
+
+Mecânico: Profissionais responsáveis pelo diagnóstico e execução.
+
+Serviço: Atividades realizadas (ex.: troca de óleo, alinhamento).
+
+Peça: Componentes utilizados no serviço.

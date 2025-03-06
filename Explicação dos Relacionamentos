@@ -1,0 +1,23 @@
+Cliente → Veículo:
+
+Um cliente pode ter vários veículos cadastrados.
+
+Veículo → Ordem de Serviço:
+
+Um veículo pode ter várias ordens de serviço associadas.
+
+Ordem de Serviço → Serviço:
+
+Uma OS pode conter vários serviços.
+
+Um mesmo serviço pode estar em diferentes OS.
+
+Ordem de Serviço → Peça:
+
+Uma OS pode conter várias peças utilizadas.
+
+Uma peça pode estar associada a várias OS.
+
+Ordem de Serviço → Mecânico:
+
+Uma OS é atribuída a uma equipe de mecânicos.

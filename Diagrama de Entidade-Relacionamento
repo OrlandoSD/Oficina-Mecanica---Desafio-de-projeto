@@ -1,0 +1,1 @@
+[Cliente] ----< [Veículo] ----< [Ordem de Serviço] >---- [Serviço] | | v v [Mecânico] [Peça]
