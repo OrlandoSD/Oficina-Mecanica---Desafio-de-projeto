@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "seu_usuario",  // Seu usuário do banco de dados
+      "password": "sua_senha",    // Sua senha do banco de dados
+      "database": "oficina_mecanica",  // Nome do banco de dados
+      "host": "127.0.0.1",  // Endereço do servidor de banco de dados
+      "dialect": "mysql"  // Tipo de banco (pode ser mysql, postgres, etc)
+    }
+  }
+  
